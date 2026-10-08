@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChoiMgHub/ChoiMgHub/main/assets/profile-header.svg" alt="ChoiMgHub — Security and Automation. Learn, build, review." width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ChoiMgHub/security-agent-toolkit"><b>실습 코드</b></a>
-  &nbsp; · &nbsp;
-  <a href="#교육-과제"><b>교육 과제</b></a>
-  &nbsp; · &nbsp;
-  <a href="#배우고-남기는-방식"><b>학습 기록</b></a>
-</p>
-
 ## 안녕하세요, 최민기입니다
 
 전자공학을 전공했고, 현재 **SKT ALEPH K-뉴딜 아카데미**에서 AI·보안·자동화를 배우며 IT 분야 취업을 준비하고 있습니다.
@@ -81,7 +69,3 @@ flowchart LR
 </details>
 
 ---
-
-<p align="center">
-  <sub>수업에서 배운 내용을 하나씩 쌓아가는 중입니다. · ChoiMgHub</sub>
-</p>
